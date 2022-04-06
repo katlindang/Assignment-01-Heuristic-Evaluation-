@@ -3,7 +3,7 @@
 
 
 
-
+[![Ableton.png](https://i.postimg.cc/k50GbFdB/Ableton.png)](https://postimg.cc/wtk9KNMp)
 Website 1: https://learningmusic.ableton.com/index.html -= more beginner friendly
 
 Description:....
@@ -33,6 +33,7 @@ screenshot:
 
 
 
+[![Screen-Shot-2022-04-06-at-11-54-28-AM.png](https://i.postimg.cc/GhL2Gm6J/Screen-Shot-2022-04-06-at-11-54-28-AM.png)](https://postimg.cc/fkPDhDzJ)
 
 Website 2: https://www.attackmagazine.com/technique/beat-dissected/progressive-techno/ - 
 Description:....
