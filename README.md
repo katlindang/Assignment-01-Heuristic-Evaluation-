@@ -4,7 +4,8 @@ The purpose of these websites is to help middle-aged men learn how to use and de
 
 
 [![Ableton.png](https://i.postimg.cc/k50GbFdB/Ableton.png)](https://postimg.cc/wtk9KNMp)
-Website 1: https://learningmusic.ableton.com/index.html 
+
+Website 1 : [Ableton](https://learningmusic.ableton.com/index.html)
 
 Description: Learning Music Ableton is a beginner friendly site for users wanting to learn the basics of electronic music, while also having an interactive experience. 
 
@@ -35,7 +36,8 @@ Overall Evaluation: It is a great site for middle-aged men to use if they want t
 
 [![Screen-Shot-2022-04-06-at-11-54-28-AM.png](https://i.postimg.cc/GhL2Gm6J/Screen-Shot-2022-04-06-at-11-54-28-AM.png)](https://postimg.cc/fkPDhDzJ)
 
-Website 2: https://www.attackmagazine.com/technique/beat-dissected/progressive-techno/ 
+
+Website 2 : [AttackMagazine](https://www.attackmagazine.com/technique/beat-dissected/progressive-techno/)
 
 Description: This site helps intermediate users to understand how to create specific types of electronic music. The sub-categories breaks down sub-genres for individuals to create similar music. There are different categories of music to choose from, but also gives users information about popular electronic music. 
 
