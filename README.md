@@ -1,4 +1,4 @@
-# Assignment-01-Heuristic-Evaluation -  Katlin Dang, DH110
+# Assignment-01-Heuristic-Evaluation -  Katlin Dang, DH110 - Spring 2022
 # Electronic Music Learning
 The purpose of these websites is to help middle-aged men learn how to use and develop their skills in electronic music making. These sites show users how to produce their own music.
 
